@@ -1,7 +1,7 @@
 ### Hi there I'm Gabriel Ospina 👋
 
-Electrical Engineer| Backend Dev | Datascience | Python Dev from Colombia :colombia:.
-- 🌱 I’m currently learning Backend, Computer science and Architecture Design from PlatziMaster
+Electrical Engineer| Backend Dev from Colombia :colombia:.
+- 🌱 I’m currently learning Python JS, Cloud and Computer Science from PlatziMaster
 - ⚡ I started a new career where every day you learn tons of new things and that is exciting.
 
 
