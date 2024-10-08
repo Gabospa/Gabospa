@@ -1,8 +1,9 @@
 ### Hi there I'm Gabriel Ospina 👋
 
-Electrical Engineer| Backend Dev from Colombia :colombia:.
-- 🌱 I’m currently learning Python JS, Cloud and Computer Science from PlatziMaster
-- ⚡ I started a new career where every day you learn tons of new things and that is exciting.
+Electrical Engineer| Software Engineer from Colombia :colombia:.
+- 🔭 Interested in Science, Tech, Finances and Sports
+- 🌱 Learning how to read, write and code every day. 
+- ⚡  PlatziMaster 4th cohort.
 
 
 <!--
